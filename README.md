@@ -9,4 +9,4 @@
 
 
 # 관련 문서
-PDF : https://docs.google.com/presentation/d/1y4OT9YPyvE6jnyMJnTEqA6nD5yyT0P3Eb8n1IDST91s/edit?usp=sharing
+PDF : [포트폴리오](https://drive.google.com/file/d/1Mu9JIlbmnV8B20ocrhGsgpeQJ2Yjac94/view?usp=sharing)
